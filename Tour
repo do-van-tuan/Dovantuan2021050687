@@ -1,0 +1,20 @@
+public class tour{
+    private String title;
+    private double price;
+    public tour (){
+    }
+    public tour (String title, double price){
+    }
+    public String gettitle (){
+        return title;
+    public void settitle (){
+        this.title=title;
+    public String getprice (){
+        return price;
+    }
+    public void setprice (){
+        this.price=price;
+    }
+    public void getBonus (){
+        return this.price 5 / 100;
+    }
