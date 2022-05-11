@@ -1,0 +1,7 @@
+hạng  công cộng NoTaxTour  mở rộng  Tour {
+
+   public  double  getTax () {
+         trả về  0 ;
+        
+     }
+   }
